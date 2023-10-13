@@ -1,2 +1,2 @@
 # Cqrs_Mediatr_Example
-Cqrs and Mediator Pattern
+Dosyalar için master branch'e bakınız.
